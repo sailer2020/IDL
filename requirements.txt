@@ -1,0 +1,4 @@
+tensorflow
+scikit-learn>=0.21.1
+scipy>=1.4.1
+imbalanced-learn>=0.5.0
